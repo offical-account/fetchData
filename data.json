@@ -5,10 +5,11 @@
         "ga_id": 101174568,
         "shortCode": "X7P"
     },      
-    "fc8bd0d7_e5ab_4abc_b6c9_aa5174ca9961": {
-        "tenantId": "fc8bd0d7-e5ab-4abc-b6c9-aa5174ca9961",
-        "_tenantId": "fc8bd0d7_e5ab_4abc_b6c9_aa5174ca9961",
-        "ga_id": 101181631,
-        "shortCode": "9mw"
+
+    "83465899_92c1_4b22_8536_a89afc7c9aac": {
+        tenantId: "83465899-92c1-4b22-8536-a89afc7c9aac",
+        _tenantId: "83465899_92c1_4b22_8536_a89afc7c9aac",
+        ga_id: 101174568,
+        shortCode: "jGz"
     }
 }

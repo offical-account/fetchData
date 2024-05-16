@@ -7,9 +7,9 @@
     },      
 
     "83465899_92c1_4b22_8536_a89afc7c9aac": {
-        tenantId: "83465899-92c1-4b22-8536-a89afc7c9aac",
-        _tenantId: "83465899_92c1_4b22_8536_a89afc7c9aac",
-        ga_id: 101174568,
-        shortCode: "jGz"
+        "tenantId": "83465899-92c1-4b22-8536-a89afc7c9aac",
+        "_tenantId": "83465899_92c1_4b22_8536_a89afc7c9aac",
+        "ga_id": 101174568,
+        "shortCode": "jGz"
     }
 }
